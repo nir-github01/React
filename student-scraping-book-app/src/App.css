@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.input-control{
+  margin: auto;
+  width: 300px;
+
+}
+.form-label{
+  font-weight: 600;
+  margin: 10px;
+}
+
+#price{
+  margin-bottom: 20px;
+}
