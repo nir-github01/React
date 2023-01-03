@@ -1,0 +1,19 @@
+.navClass{
+    background-color: rgb(143, 151, 151);
+    height:40px;
+    color: brown;
+    margin: -18px;
+}
+
+.navClass ul{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: end;
+    margin: 0px 40px 0px 0px;
+}
+.navClass ul li{
+    font-weight: bold;
+    padding: 10px;
+    list-style: none;
+}

@@ -1,0 +1,19 @@
+.sectionClass{
+    background-color: rgb(139, 187, 171);
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: 1px solid rgb(143, 130, 130);
+    margin: 18px 0px 0px 0px;
+    width: 100%;
+}
+.para1, .para2, .para3{
+    margin:30px 0px 30px 0px ;
+    color: rgb(197, 132, 34);
+    background-color: rgb(10, 84, 97);
+    border: 2px solid green;
+    width: 30%;
+    height: max-content;
+    text-align: center;
+}
